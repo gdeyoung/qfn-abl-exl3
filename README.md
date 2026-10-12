@@ -3,8 +3,8 @@
 Requant of [huihui-ai's Huihui-Qwen3.8-Flash-Next-abliterated](https://huggingface.co/huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated)
 to the stock 3.05bpw EXL3 allocation, built and validated on NVIDIA DGX Spark (GB10, 128GB
 unified). Serving on two single-node Sparks pooled behind an OpenAI-compatible router.
-This repo is the recipe, the traps, and the validation battery — the weights live on
-Hugging Face (link at bottom once published).
+This repo is the recipe, the traps, and the validation battery. Weights:
+[gdeyoung/Huihui-Qwen3.8-Flash-Next-abliterated-EXL3-3.05bpw-integer](https://huggingface.co/gdeyoung/Huihui-Qwen3.8-Flash-Next-abliterated-EXL3-3.05bpw-integer).
 
 ## What this is
 
